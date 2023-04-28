@@ -1,6 +1,8 @@
 # SilenceOfTheDead
 Mutes Dead Players.
 
+![image](https://user-images.githubusercontent.com/46509577/235238428-ab0392fc-fe0e-482a-a4a4-13afd8721a81.png)
+
 ## Information
 For Game Version 1.2.03  
 For PML Version 0.11.1  
